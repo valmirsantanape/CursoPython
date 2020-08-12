@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,28 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.ex008">
-    <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex003.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex009">
     <configuration name="ex004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,13 +115,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex009.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex009" />
         <item itemvalue="Python.ex008" />
         <item itemvalue="Python.ex006" />
         <item itemvalue="Python.ex005" />
         <item itemvalue="Python.ex004" />
-        <item itemvalue="Python.ex003" />
       </list>
     </recent_temporary>
   </component>
@@ -164,22 +164,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597167419629" />
-    <state width="1345" height="219" key="GridCell.Tab.0.bottom" timestamp="1597195082216">
+    <state width="1345" height="219" key="GridCell.Tab.0.bottom" timestamp="1597195990088">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="219" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597195082216" />
-    <state width="1345" height="219" key="GridCell.Tab.0.center" timestamp="1597195082215">
+    <state width="1345" height="219" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597195990088" />
+    <state width="1345" height="219" key="GridCell.Tab.0.center" timestamp="1597195990087">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="219" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597195082215" />
-    <state width="1345" height="219" key="GridCell.Tab.0.left" timestamp="1597195082215">
+    <state width="1345" height="219" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597195990087" />
+    <state width="1345" height="219" key="GridCell.Tab.0.left" timestamp="1597195990086">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="219" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597195082215" />
-    <state width="1345" height="219" key="GridCell.Tab.0.right" timestamp="1597195082215">
+    <state width="1345" height="219" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597195990086" />
+    <state width="1345" height="219" key="GridCell.Tab.0.right" timestamp="1597195990087">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="219" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597195082215" />
+    <state width="1345" height="219" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597195990087" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1597188852853">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
