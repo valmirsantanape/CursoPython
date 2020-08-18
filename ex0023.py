@@ -1,0 +1,5 @@
+numero = input('Digie um numero entre 0 e 9999: ')
+print('Casa de unidade: ',numero[3])
+print('Casa de dezena: ',numero[2])
+print('Casa de centena:' , numero[1])
+print('Casa de milhar: ', numero[0])
