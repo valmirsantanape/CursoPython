@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -262,10 +263,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="228" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
-    <state x="450" y="10" width="916" height="715" key="SettingsEditor" timestamp="1597723566296">
+    <state x="450" y="10" width="916" height="715" key="SettingsEditor" timestamp="1598063281119">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="450" y="10" width="916" height="715" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597723566296" />
+    <state x="450" y="10" width="916" height="715" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1598063281119" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1597719463889">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
