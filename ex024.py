@@ -1,5 +1,4 @@
-nome = input('Digite o nome de uma cidade ')
-nome = nome.split()
+nome = input('Digite o nome de uma cidade ').split()
 print(nome[0])
 
 if(nome[0] == 'Santo'):
