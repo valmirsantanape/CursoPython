@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonExercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonExercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/ex021.py" />
+    </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,17 +28,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ex021.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="sortByName" value="true" />
+  </component>
   <component name="ProjectId" id="1fxiTve6FbsjcibIrDHIpROtYXL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -37,6 +53,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.ex021">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex0023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,13 +116,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex021" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\valmi\PycharmProjects\PythonAulas\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.py" />
@@ -139,6 +179,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.ex0023" />
+      <item itemvalue="Python.ex020" />
+      <item itemvalue="Python.ex021" />
+      <item itemvalue="Python.ex022" />
+      <item itemvalue="Python.ex024" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ex021" />
@@ -149,6 +196,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,63 +210,74 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="42" key="#Inspections" timestamp="1597716504179">
+    <state x="275" y="42" key="#Inspections" timestamp="1597722083408">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1597716504179" />
-    <state x="0" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597167419629">
+    <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1597722083408" />
+    <state x="345" y="0" width="834" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597720080911">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597167419629" />
+    <state x="345" y="0" width="834" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1597720080911" />
+    <state x="704" y="10" key="#ex021" timestamp="1597719177500">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="704" y="10" key="#ex021/0.0.1366.768@0.0.1366.768" timestamp="1597719177500" />
     <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1597716633400">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1597716633400" />
-    <state x="777" y="139" key="FileChooserDialogImpl" timestamp="1597532271437">
+    <state x="777" y="139" key="FileChooserDialogImpl" timestamp="1597720094617">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597532271437" />
-    <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1597716648125">
+    <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597720094617" />
+    <state width="1345" height="228" key="GridCell.Tab.0.bottom" timestamp="1597722088493">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597716648125" />
-    <state width="1345" height="238" key="GridCell.Tab.0.center" timestamp="1597716648125">
+    <state width="1345" height="228" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state width="1345" height="228" key="GridCell.Tab.0.center" timestamp="1597722088493">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597716648125" />
-    <state width="1345" height="238" key="GridCell.Tab.0.left" timestamp="1597716648125">
+    <state width="1345" height="228" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state width="1345" height="228" key="GridCell.Tab.0.left" timestamp="1597722088492">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597716648125" />
-    <state width="1345" height="238" key="GridCell.Tab.0.right" timestamp="1597716648125">
+    <state width="1345" height="228" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597722088492" />
+    <state width="1345" height="228" key="GridCell.Tab.0.right" timestamp="1597722088493">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597716648125" />
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1597716648126">
+    <state width="1345" height="228" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state width="1345" height="228" key="GridCell.Tab.1.bottom" timestamp="1597722088494">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597716648126" />
-    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1597716648126">
+    <state width="1345" height="228" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597722088494" />
+    <state width="1345" height="228" key="GridCell.Tab.1.center" timestamp="1597722088493">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1597716648126" />
-    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1597716648125">
+    <state width="1345" height="228" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state width="1345" height="228" key="GridCell.Tab.1.left" timestamp="1597722088493">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1597716648125" />
-    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1597716648126">
+    <state width="1345" height="228" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state width="1345" height="228" key="GridCell.Tab.1.right" timestamp="1597722088493">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1597716648126" />
-    <state x="184" y="26" key="SettingsEditor" timestamp="1597374683169">
+    <state width="1345" height="228" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state x="450" y="10" width="916" height="715" key="SettingsEditor" timestamp="1597723566296">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597374683169" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1597715411670">
+    <state x="450" y="10" width="916" height="715" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1597723566296" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1597719463889">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597715411670" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597719463889" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597719669171">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1597719669171" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
