@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="" />
+    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex0023.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex0023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex021">
+  <component name="RunManager" selected="Python.ex0023">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,11 +183,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex0023" />
+        <item itemvalue="Python.ex022" />
         <item itemvalue="Python.ex021" />
         <item itemvalue="Python.ex021" />
         <item itemvalue="Python.ex020" />
-        <item itemvalue="Python.ex024" />
-        <item itemvalue="Python.ex0023" />
       </list>
     </recent_temporary>
   </component>
@@ -225,22 +229,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598064631552" />
-    <state width="1345" height="228" key="GridCell.Tab.0.bottom" timestamp="1597722088493">
+    <state width="1345" height="209" key="GridCell.Tab.0.bottom" timestamp="1598070691993">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
-    <state width="1345" height="228" key="GridCell.Tab.0.center" timestamp="1597722088493">
+    <state width="1345" height="209" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598070691993" />
+    <state width="1345" height="209" key="GridCell.Tab.0.center" timestamp="1598070691993">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
-    <state width="1345" height="228" key="GridCell.Tab.0.left" timestamp="1597722088492">
+    <state width="1345" height="209" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598070691993" />
+    <state width="1345" height="209" key="GridCell.Tab.0.left" timestamp="1598070691992">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597722088492" />
-    <state width="1345" height="228" key="GridCell.Tab.0.right" timestamp="1597722088493">
+    <state width="1345" height="209" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598070691992" />
+    <state width="1345" height="209" key="GridCell.Tab.0.right" timestamp="1598070691993">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state width="1345" height="209" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598070691993" />
     <state width="1345" height="228" key="GridCell.Tab.1.bottom" timestamp="1597722088494">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -265,10 +269,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597719463889" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597719669171">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598065811668">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1597719669171" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1598065811668" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
