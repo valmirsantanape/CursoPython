@@ -1,7 +1,6 @@
+num = int(input('Digite um numero: \n'))
 
-    num = int(input('Digite um numero inteiro qualquer: \n'))
-
-    if num % 2 == 0:
+if num % 2 == 0:
     print('{} é um numero par: ' .format(num))
-    else:
-    print('{} é um numero impar: '.format(num))
+else:
+    print('{} é um numero impar')
