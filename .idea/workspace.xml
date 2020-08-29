@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex027">
+  <component name="RunManager" selected="Python.ex028">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,27 +63,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex0023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex0023.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,21 +176,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex028" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex028.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex021" />
-      <item itemvalue="Python.ex0023" />
       <item itemvalue="Python.ex024" />
       <item itemvalue="Python.ex025" />
       <item itemvalue="Python.ex026" />
       <item itemvalue="Python.ex027" />
+      <item itemvalue="Python.ex028" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex028" />
         <item itemvalue="Python.ex027" />
         <item itemvalue="Python.ex026" />
         <item itemvalue="Python.ex025" />
         <item itemvalue="Python.ex024" />
-        <item itemvalue="Python.ex0023" />
       </list>
     </recent_temporary>
   </component>
@@ -253,38 +253,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598582122964" />
-    <state width="1345" height="208" key="GridCell.Tab.0.bottom" timestamp="1598583504536">
+    <state width="1345" height="207" key="GridCell.Tab.0.bottom" timestamp="1598659940237">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="208" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598583504536" />
-    <state width="1345" height="208" key="GridCell.Tab.0.center" timestamp="1598583504535">
+    <state width="1345" height="207" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598659940237" />
+    <state width="1345" height="207" key="GridCell.Tab.0.center" timestamp="1598659940236">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="208" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598583504535" />
-    <state width="1345" height="208" key="GridCell.Tab.0.left" timestamp="1598583504535">
+    <state width="1345" height="207" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598659940236" />
+    <state width="1345" height="207" key="GridCell.Tab.0.left" timestamp="1598659940236">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="208" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598583504535" />
-    <state width="1345" height="208" key="GridCell.Tab.0.right" timestamp="1598583504536">
+    <state width="1345" height="207" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598659940236" />
+    <state width="1345" height="207" key="GridCell.Tab.0.right" timestamp="1598659940237">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="208" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598583504536" />
-    <state width="1345" height="228" key="GridCell.Tab.1.bottom" timestamp="1597722088494">
+    <state width="1345" height="207" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598659940237" />
+    <state width="1345" height="225" key="GridCell.Tab.1.bottom" timestamp="1598659914702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597722088494" />
-    <state width="1345" height="228" key="GridCell.Tab.1.center" timestamp="1597722088493">
+    <state width="1345" height="225" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598659914702" />
+    <state width="1345" height="225" key="GridCell.Tab.1.center" timestamp="1598659914702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
-    <state width="1345" height="228" key="GridCell.Tab.1.left" timestamp="1597722088493">
+    <state width="1345" height="225" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1598659914702" />
+    <state width="1345" height="225" key="GridCell.Tab.1.left" timestamp="1598659914702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
-    <state width="1345" height="228" key="GridCell.Tab.1.right" timestamp="1597722088493">
+    <state width="1345" height="225" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1598659914702" />
+    <state width="1345" height="225" key="GridCell.Tab.1.right" timestamp="1598659914702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="228" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1597722088493" />
+    <state width="1345" height="225" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1598659914702" />
     <state x="139" y="7" width="1227" height="715" key="SettingsEditor" timestamp="1598065764719">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
