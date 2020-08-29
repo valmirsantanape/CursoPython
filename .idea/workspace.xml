@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex025.py" afterDir="false" />
-    </list>
+    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +46,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex025">
+  <component name="RunManager" selected="Python.ex032">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,8 +204,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex025" />
         <item itemvalue="Python.ex032" />
+        <item itemvalue="Python.ex025" />
         <item itemvalue="Python.ex019" />
         <item itemvalue="Python.ex018" />
         <item itemvalue="Python.ex031" />
@@ -253,22 +250,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598582122964" />
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598723306157">
+    <state width="656" height="203" key="GridCell.Tab.0.bottom" timestamp="1598723656610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598723306157" />
-    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598723306157">
+    <state width="656" height="203" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598723656610" />
+    <state width="656" height="203" key="GridCell.Tab.0.center" timestamp="1598723656610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598723306157" />
-    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598723306157">
+    <state width="656" height="203" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598723656610" />
+    <state width="656" height="203" key="GridCell.Tab.0.left" timestamp="1598723656610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598723306157" />
-    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598723306157">
+    <state width="656" height="203" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598723656610" />
+    <state width="656" height="203" key="GridCell.Tab.0.right" timestamp="1598723656610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598723306157" />
+    <state width="656" height="203" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598723656610" />
     <state width="1345" height="225" key="GridCell.Tab.1.bottom" timestamp="1598659914702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
