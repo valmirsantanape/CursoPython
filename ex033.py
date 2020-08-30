@@ -1,4 +1,4 @@
-pimeirovalor = int(input('Digite o primeirovalor: '))
+pimeirovalor = int(input('Digite o primeiro valor: '))
 segundovalor = int(input('Digite o segundo valor: '))
 terceirovalor = int(input('Digite o terceiro valor: '))
 
