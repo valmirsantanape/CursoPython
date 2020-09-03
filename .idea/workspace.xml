@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="" />
+    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex040-medianotas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex035">
+  <component name="RunManager" selected="Python.ex040-medianotas">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,27 +63,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex019" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\valmi\PycharmProjects\ExercicioPython\ex019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex025" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+    <configuration name="ex036-financiamento" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex025.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex036-financiamento.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex032" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+    <configuration name="ex037-conversor" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex032.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex037-conversor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex033" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+    <configuration name="ex038-comparandonumero" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex033.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex038-comparandonumero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex035" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+    <configuration name="ex039-anoalistamento" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,7 +167,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex035.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex039-anoalistamento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex040-medianotas" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex040-medianotas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,19 +199,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.ex021" />
-      <item itemvalue="Python.ex032" />
-      <item itemvalue="Python.ex019" />
-      <item itemvalue="Python.ex025" />
-      <item itemvalue="Python.ex033" />
-      <item itemvalue="Python.ex035" />
+      <item itemvalue="Python.ex036-financiamento" />
+      <item itemvalue="Python.ex037-conversor" />
+      <item itemvalue="Python.ex038-comparandonumero" />
+      <item itemvalue="Python.ex039-anoalistamento" />
+      <item itemvalue="Python.ex040-medianotas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex035" />
-        <item itemvalue="Python.ex033" />
-        <item itemvalue="Python.ex032" />
-        <item itemvalue="Python.ex025" />
-        <item itemvalue="Python.ex019" />
+        <item itemvalue="Python.ex040-medianotas" />
+        <item itemvalue="Python.ex039-anoalistamento" />
+        <item itemvalue="Python.ex038-comparandonumero" />
+        <item itemvalue="Python.ex037-conversor" />
+        <item itemvalue="Python.ex036-financiamento" />
       </list>
     </recent_temporary>
   </component>
@@ -250,22 +253,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598582122964" />
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1598907744754">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1599143400357">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1598907744754" />
-    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1598907744754">
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599143400357" />
+    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1599143400357">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1598907744754" />
-    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1598907744753">
+    <state width="1345" height="203" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599143400357" />
+    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1599143400357">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1598907744753" />
-    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1598907744754">
+    <state width="1345" height="203" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599143400357" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1599143400357">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="203" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1598907744754" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599143400357" />
     <state width="1345" height="225" key="GridCell.Tab.1.bottom" timestamp="1598659914702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
