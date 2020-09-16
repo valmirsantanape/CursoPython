@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex041-categoriaporidade.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex041-categoriaporidade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex042-trianguloII.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex042-trianguloII.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex041-categoriaporidade">
+  <component name="RunManager" selected="Python.ex042-trianguloII">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,27 +86,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex037-conversor" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex037-conversor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -197,21 +176,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex042-trianguloII" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex042-trianguloII.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex021" />
-      <item itemvalue="Python.ex037-conversor" />
       <item itemvalue="Python.ex038-comparandonumero" />
       <item itemvalue="Python.ex039-anoalistamento" />
       <item itemvalue="Python.ex040-medianotas" />
       <item itemvalue="Python.ex041-categoriaporidade" />
+      <item itemvalue="Python.ex042-trianguloII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex042-trianguloII" />
         <item itemvalue="Python.ex041-categoriaporidade" />
         <item itemvalue="Python.ex040-medianotas" />
         <item itemvalue="Python.ex039-anoalistamento" />
         <item itemvalue="Python.ex038-comparandonumero" />
-        <item itemvalue="Python.ex037-conversor" />
       </list>
     </recent_temporary>
   </component>
