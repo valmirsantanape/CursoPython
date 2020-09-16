@@ -16,6 +16,9 @@ elif forpag == 3:
     print('Valor: R${:.2f}'.format(duasvezes))
 elif forpag == 4:
     print('Valor: R${:.2f}'.format(tresvezes))
+else:
+    print('Numero inválido.\n'
+          'Refaça a operação!')
 
 
 #Exercício Python 44: Elabore um programa que calcule o valor a ser
