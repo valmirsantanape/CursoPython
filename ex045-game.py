@@ -7,7 +7,7 @@ escolha = int(input('[0] PEDRA\n'
                     '[1] PAPEL\n'
                     '[2] TESOURA\n'
                     '>> '))
-if escolha <=2:
+if escolha >= 0 and escolha <= 2:
     jogador = lista[escolha]
     sleep(0.5)
     print('JO')
@@ -49,4 +49,7 @@ if escolha <=2:
     print('=-='* 10)
 else:
     print('Escolha invalida. \n'
-          'Recomece o jogo e escolha um valor de 0 a 2!')
+          'Recomece o jogo e escolha entre as opções \n'
+          '[0] PEDRA\n'
+          '[1] PAPEL\n'
+          '[2] TESOURA\n')
