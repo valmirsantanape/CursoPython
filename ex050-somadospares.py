@@ -1,7 +1,8 @@
-num1 = int(input('Digite o primeiro numero: \n'))
-num2 = int(input('Digite o segundo numero: \n'))
-num3 = int(input('Digite o terceiro numero: \n'))
-num4 = int(input('Digite o quanrto numero: \n'))
-num5 = int(input('Digite o quinto numero: \n'))
- for c in range()
-     
+soma = 0
+cont = 0
+for c in range(1, 7):
+    num = int(input('Digite um {}º valor: '.format(c)))
+    if num% 2 == 0:
+        soma = soma + num
+        cont = cont + 1
+print('Vcê informou {} numeros pares e a soma desses numeros é {}.'.format(cont, soma))
