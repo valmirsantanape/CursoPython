@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="" />
+    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex052-numeroprimo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex053-palindromo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +51,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex051-PA">
+  <component name="RunManager" selected="Python.ex053-palindromo">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,48 +88,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex047-numerospares" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex047-numerospares.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex048-somanumeroimpares" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex048-somanumeroimpares.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -195,21 +157,63 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex052-numeroprimo" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex052-numeroprimo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex053-palindromo" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex053-palindromo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex021" />
-      <item itemvalue="Python.ex047-numerospares" />
-      <item itemvalue="Python.ex048-somanumeroimpares" />
       <item itemvalue="Python.ex049-calculadora" />
       <item itemvalue="Python.ex050-somadospares" />
       <item itemvalue="Python.ex051-PA" />
+      <item itemvalue="Python.ex052-numeroprimo" />
+      <item itemvalue="Python.ex053-palindromo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex053-palindromo" />
+        <item itemvalue="Python.ex052-numeroprimo" />
         <item itemvalue="Python.ex051-PA" />
         <item itemvalue="Python.ex050-somadospares" />
         <item itemvalue="Python.ex049-calculadora" />
-        <item itemvalue="Python.ex048-somanumeroimpares" />
-        <item itemvalue="Python.ex047-numerospares" />
       </list>
     </recent_temporary>
   </component>
@@ -243,22 +247,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600303413258" />
-    <state width="706" height="223" key="GridCell.Tab.0.bottom" timestamp="1606690428663">
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1606703333683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="706" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606690428663" />
-    <state width="706" height="223" key="GridCell.Tab.0.center" timestamp="1606690428661">
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606703333683" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1606703333683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="706" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606690428661" />
-    <state width="706" height="223" key="GridCell.Tab.0.left" timestamp="1606690428661">
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606703333683" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1606703333683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="706" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606690428661" />
-    <state width="706" height="223" key="GridCell.Tab.0.right" timestamp="1606690428662">
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606703333683" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1606703333683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="706" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606690428662" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606703333683" />
     <state width="1345" height="225" key="GridCell.Tab.1.bottom" timestamp="1598659914702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
