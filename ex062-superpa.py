@@ -19,5 +19,5 @@ while resp != 0:
         a1 += razao
         c += 1
     print('}')
-    resp = int(input('(Digite 0 para sair do programa) \nDeseja saber mais termos?'))
+    resp = int(input('(Digite 0 para sair do programa) \nInforme o numero de termos que deseja exibir desta PA?'))
 print('Você saiu do programa. ')
