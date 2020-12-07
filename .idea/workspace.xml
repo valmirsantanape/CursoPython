@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex057-sexo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex057-sexo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex058-acertenumero.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex058-acertenumero.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex057-sexo">
+  <component name="RunManager" selected="Python.ex058-acertenumero">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,27 +108,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex054-maioridade" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex054-maioridade.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -198,21 +177,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex058-acertenumero" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex058-acertenumero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex021" />
-      <item itemvalue="Python.ex054-maioridade" />
       <item itemvalue="Python.ex055-peso" />
       <item itemvalue="Python.ex056-analisadorcompleto" />
       <item itemvalue="Python.aula14-while" />
       <item itemvalue="Python.ex057-sexo" />
+      <item itemvalue="Python.ex058-acertenumero" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex058-acertenumero" />
         <item itemvalue="Python.ex057-sexo" />
         <item itemvalue="Python.aula14-while" />
         <item itemvalue="Python.ex056-analisadorcompleto" />
         <item itemvalue="Python.ex055-peso" />
-        <item itemvalue="Python.ex054-maioridade" />
       </list>
     </recent_temporary>
   </component>
@@ -242,25 +242,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600303413258" />
-    <state width="1345" height="166" key="GridCell.Tab.0.bottom" timestamp="1607307333280">
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom" timestamp="1607308389555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607307333280" />
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607308389555" />
     <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
-    <state width="1345" height="166" key="GridCell.Tab.0.center" timestamp="1607307333279">
+    <state width="1345" height="166" key="GridCell.Tab.0.center" timestamp="1607308389554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607307333279" />
+    <state width="1345" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607308389554" />
     <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606704416226" />
-    <state width="1345" height="166" key="GridCell.Tab.0.left" timestamp="1607307333279">
+    <state width="1345" height="166" key="GridCell.Tab.0.left" timestamp="1607308389554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607307333279" />
+    <state width="1345" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607308389554" />
     <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606704416225" />
-    <state width="1345" height="166" key="GridCell.Tab.0.right" timestamp="1607307333279">
+    <state width="1345" height="166" key="GridCell.Tab.0.right" timestamp="1607308389554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607307333279" />
+    <state width="1345" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607308389554" />
     <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1606689639684">
       <screen x="0" y="0" width="1366" height="768" />
