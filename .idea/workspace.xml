@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula16-tuplas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,12 +198,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.aula16-tuplas" />
       <item itemvalue="Python.ex021" />
       <item itemvalue="Python.ex068-parouipar" />
       <item itemvalue="Python.ex069-analisardados" />
       <item itemvalue="Python.ex070-estatistica" />
       <item itemvalue="Python.ex071-simulaordecaixa" />
-      <item itemvalue="Python.aula16-tuplas" />
     </list>
     <recent_temporary>
       <list>
