@@ -11,4 +11,4 @@ else:
 print('O numeros pares digitados são: ', end=' ')
 for cont in range(0, 4):
    if cont % 2 == 0:
-       print(cont, end=', ')
+       print(cont, end=' ')
