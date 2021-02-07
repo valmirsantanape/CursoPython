@@ -20,5 +20,13 @@ while True:
 print('=-' * 20)
 print(f'{len(pessoas)} pessoas foram cadastradas')
 print(f'Dados cadastrados: \n{pessoas}')
-print(f'O maior peso foi de {mairpeso}kg')
-print(f'O menor peso foi de {menorpeso}kg')
+print()
+print(f'O maior peso foi de {mairpeso}kg. Peso de ', end='')
+for p in pessoas:
+    if p[1] == mairpeso:
+        print(f'[{p[0]}] ', end='')
+print()
+print(f'O menor peso foi de {menorpeso}kg. Peso de ', end='')
+for p in pessoas:
+    if p[1] == menorpeso:
+        print(f'[{p[0]}] ',end='')
