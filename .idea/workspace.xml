@@ -51,7 +51,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex083-validarexpressao">
+  <component name="RunManager" selected="Python.ex079-valoresemlistas">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +209,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex079-valoresemlistas" />
         <item itemvalue="Python.ex083-validarexpressao" />
         <item itemvalue="Python.ex082-dividindolistas" />
         <item itemvalue="Python.ex081-extrairvalores" />
         <item itemvalue="Python.ex080-listaordenada" />
-        <item itemvalue="Python.ex079-valoresemlistas" />
       </list>
     </recent_temporary>
   </component>
@@ -239,29 +239,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="196" y="113" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1606688838220" />
-    <state x="777" y="139" key="FileChooserDialogImpl" timestamp="1600303413258">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="777" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600303413258" />
-    <state width="729" height="141" key="GridCell.Tab.0.bottom" timestamp="1607998662201">
+    <state x="801" y="119" key="FileChooserDialogImpl" timestamp="1612565462275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="729" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607998662201" />
+    <state x="801" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612565462275" />
+    <state width="1345" height="143" key="GridCell.Tab.0.bottom" timestamp="1612565464407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612565464407" />
     <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
-    <state width="729" height="141" key="GridCell.Tab.0.center" timestamp="1607998662201">
+    <state width="1345" height="143" key="GridCell.Tab.0.center" timestamp="1612565464407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="729" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607998662201" />
+    <state width="1345" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612565464407" />
     <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606704416226" />
-    <state width="729" height="141" key="GridCell.Tab.0.left" timestamp="1607998662201">
+    <state width="1345" height="143" key="GridCell.Tab.0.left" timestamp="1612565464407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="729" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607998662201" />
+    <state width="1345" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612565464407" />
     <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606704416225" />
-    <state width="729" height="141" key="GridCell.Tab.0.right" timestamp="1607998662201">
+    <state width="1345" height="143" key="GridCell.Tab.0.right" timestamp="1612565464407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="729" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607998662201" />
+    <state width="1345" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612565464407" />
     <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
     <state width="1345" height="209" key="GridCell.Tab.1.bottom" timestamp="1607911832219">
       <screen x="0" y="0" width="1366" height="728" />
