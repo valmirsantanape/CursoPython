@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex089-boletim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex089-boletimII.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex089-boletim">
+  <component name="RunManager" selected="Python.ex089-boletimII">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,27 +89,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex085-listaparesimpares" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex085-listaparesimpares.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -200,21 +179,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex089-boletimII" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex089-boletimII.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex021" />
-      <item itemvalue="Python.ex085-listaparesimpares" />
       <item itemvalue="Python.ex086-matrizes" />
       <item itemvalue="Python.ex087-matrizesII" />
       <item itemvalue="Python.ex088-palpitesmegasena" />
       <item itemvalue="Python.ex089-boletim" />
+      <item itemvalue="Python.ex089-boletimII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex089-boletimII" />
         <item itemvalue="Python.ex089-boletim" />
         <item itemvalue="Python.ex088-palpitesmegasena" />
         <item itemvalue="Python.ex087-matrizesII" />
         <item itemvalue="Python.ex086-matrizes" />
-        <item itemvalue="Python.ex085-listaparesimpares" />
       </list>
     </recent_temporary>
   </component>
@@ -244,25 +244,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="801" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612565462275" />
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom" timestamp="1612813652700">
+    <state width="1345" height="173" key="GridCell.Tab.0.bottom" timestamp="1612825537890">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612813652700" />
+    <state width="1345" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612825537890" />
     <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
-    <state width="1345" height="173" key="GridCell.Tab.0.center" timestamp="1612813652699">
+    <state width="1345" height="173" key="GridCell.Tab.0.center" timestamp="1612825537889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612813652699" />
+    <state width="1345" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612825537889" />
     <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606704416226" />
-    <state width="1345" height="173" key="GridCell.Tab.0.left" timestamp="1612813652699">
+    <state width="1345" height="173" key="GridCell.Tab.0.left" timestamp="1612825537888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612813652699" />
+    <state width="1345" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612825537888" />
     <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606704416225" />
-    <state width="1345" height="173" key="GridCell.Tab.0.right" timestamp="1612813652699">
+    <state width="1345" height="173" key="GridCell.Tab.0.right" timestamp="1612825537889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612813652699" />
+    <state width="1345" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612825537889" />
     <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
     <state width="1345" height="209" key="GridCell.Tab.1.bottom" timestamp="1607911832219">
       <screen x="0" y="0" width="1366" height="728" />
