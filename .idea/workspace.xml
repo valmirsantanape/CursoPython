@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5fd245f-af69-4c2f-9a3b-e4d037dc5513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex090-cadastro-trabalho.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonExercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonExercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +46,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonAulas" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\valmi\PycharmProjects\ExercicioPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex089-boletimII">
+  <component name="RunManager" selected="Python.ex090-cadastro-trabalho">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,27 +91,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex086-matrizes" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex086-matrizes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -199,21 +181,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex090-cadastro-trabalho" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex090-cadastro-trabalho.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.ex021" />
-      <item itemvalue="Python.ex086-matrizes" />
       <item itemvalue="Python.ex087-matrizesII" />
       <item itemvalue="Python.ex088-palpitesmegasena" />
-      <item itemvalue="Python.ex089-boletim" />
       <item itemvalue="Python.ex089-boletimII" />
+      <item itemvalue="Python.ex089-boletim" />
+      <item itemvalue="Python.ex090-cadastro-trabalho" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex090-cadastro-trabalho" />
         <item itemvalue="Python.ex089-boletimII" />
         <item itemvalue="Python.ex089-boletim" />
         <item itemvalue="Python.ex088-palpitesmegasena" />
         <item itemvalue="Python.ex087-matrizesII" />
-        <item itemvalue="Python.ex086-matrizes" />
       </list>
     </recent_temporary>
   </component>
@@ -231,63 +234,19 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="196" y="113" width="1182" height="584" key="DiffContextDialog" timestamp="1606688838220">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="196" y="113" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1606688838220" />
-    <state x="801" y="119" key="FileChooserDialogImpl" timestamp="1612919106720">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="801" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612919106720" />
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom" timestamp="1612825537890">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612825537890" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
-    <state width="1345" height="173" key="GridCell.Tab.0.center" timestamp="1612825537889">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612825537889" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606704416226" />
-    <state width="1345" height="173" key="GridCell.Tab.0.left" timestamp="1612825537888">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612825537888" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606704416225" />
-    <state width="1345" height="173" key="GridCell.Tab.0.right" timestamp="1612825537889">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612825537889" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606704416227" />
-    <state width="1345" height="209" key="GridCell.Tab.1.bottom" timestamp="1607911832219">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="209" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607911832219" />
-    <state width="1345" height="209" key="GridCell.Tab.1.center" timestamp="1607911832218">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="209" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607911832218" />
-    <state width="1345" height="209" key="GridCell.Tab.1.left" timestamp="1607911832218">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="209" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607911832218" />
-    <state width="1345" height="209" key="GridCell.Tab.1.right" timestamp="1607911832218">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="209" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607911832218" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607983950531">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607983950531" />
-    <state x="346" y="84" width="672" height="643" key="search.everywhere.popup" timestamp="1612658637763">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="84" width="672" height="643" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1612658637763" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1606689639684" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
