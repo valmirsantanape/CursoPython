@@ -25,7 +25,7 @@ def contador(i, f, p):
 contador(1, 10, 1)
 contador(10, 1, 2)
 
-print(f'                Contagem personalisada')
+print(f'                <Contagem Personalisada>')
 inicio = int(input(f'Digite o valor que deseja iniciar a contagem: '))
 fim = int(input(f'Digite o valor onde deseja terminar a contagem: '))
 passo = int(input(f'Digite o valor do passo da sua contagem: '))
